@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PilasPitudasenPiton", "PilasPitudasenPiton\PilasPitudasenPiton.pyproj", "{97F893EE-94D2-47C8-90A4-190ABBE11998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F893EE-94D2-47C8-90A4-190ABBE11998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F893EE-94D2-47C8-90A4-190ABBE11998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8022984E-3067-4630-962C-AE7C98CAF3B5}
+	EndGlobalSection
+EndGlobal
